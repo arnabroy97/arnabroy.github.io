@@ -12,84 +12,81 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Arnab Roy"
 title_separator          : "-"
 name                     : &name "Arnab Roy"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://arnabroy97.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Arnab Roy's academic portfolio"
+url                      : "https://arnabroy97.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arnabroy97/arnabroy97.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
   avatar           : "/images/profile_pic.jpg"
   name             : "Arnab Roy"
-  pronouns         : # example: "she/her"  
-  bio              : "Interested in how Physics(Mechanics) and geometry govern pattern formation in living systems"
+  pronouns         :        # example: "he/him"
+  bio              : "Interested in how Physics (Mechanics) and geometry govern pattern formation in living systems"
   location         : "Merced, California"
   employer         : "University of California Merced"
-  uri              : # URL
-  email            : "arnab.phy1@gmail.com" 
+  uri              :        # URL
+  email            : "arnab.phy1@gmail.com"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         :
+  arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=vBn71DQAAAAJ&hl=en"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  inspire-hep      :
+  impactstory      :
   orcid            : "https://orcid.org/0009-0003-0501-3193"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  semantic         :
+  ssrn             :
+  pubmed           :
   researchgate     : "https://www.researchgate.net/profile/Arnab-Roy-35?ev=hdr_xprf"
-  scopus           : # URL
-  zotero           : # URL
-
+  scopus           :
+  zotero           :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "arnabroy97"   # ✅ change from "academicpages"
+  kaggle           :
+  stackoverflow    :
 
   # Social media
-  artstation       : # Username
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
   linkedin         : "https://www.linkedin.com/in/arnab-roy-509239104/"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category
 publication_category:
   books:
-    title: 'Books'
+    title: "Books"
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Journal Articles"
   conferences:
-    title: 'Conference Papers'
+    title: "Conference Papers"
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
