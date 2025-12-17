@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 👋 Hello and welcome!  
-I’m **Arnab Roy**, a graduate student researcher working with interested in the physics of living systems. My work focuses on understanding how **mechanics, geometry, and active processes** drive organization and pattern formation in biological and bio-inspired systems.
+I’m **Arnab Roy**, a graduate student researcher working in the domain of physics of living systems. My work focuses on understanding how **mechanics, geometry, and active processes** drive organization and pattern formation in biological and bio-inspired systems.
 
 Broadly, my research interests include:
 
